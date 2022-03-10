@@ -7,7 +7,7 @@ What if this was a stream of data with no end?
   How would your solution change to return the _current_ first unique element when polled?
 """
 
-from typing import List, Optional, TypeVar
+from typing import List, Optional, TypeVar, Dict
 
 T = TypeVar('T')
 
@@ -20,6 +20,18 @@ def first_unique(input_list: List[T], find: T = None) -> T:
     return input_list[0]
 
 
+def first_unique_map(input_list: List[T]) -> T:
+    if len(input_list) == 0:
+        return None
+    result: Dict[T, int] = {}
+    for value in input_list:
+        result[value] = result.get(value, 0) + 1
+
+    for value in input_list:
+        if result[value] == 1:
+            return value
+
+
 if __name__ == "__main__":
     inputs = [
         ['a', '1', 'c', '1', 'a', 'a', 'd', '1'],
@@ -29,4 +41,6 @@ if __name__ == "__main__":
     ]
 
     for input_list in inputs:
-        print(f'Input: {input_list} \nFirst unique: {first_unique(input_list)}\n')
+        print(f'Input: {input_list}')
+        print(f'\tRecursive Solution: {first_unique(input_list)}')
+        print(f'\tMap Solution: {first_unique_map(input_list)} \n')
