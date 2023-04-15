@@ -1,0 +1,15 @@
+apples:
+  type: "counter"
+  is_monotonic: false
+  unit: "each"
+  description: "The number of apples in inventory."
+banana.bunches:
+  type: "counter"
+  is_monotonic: true
+  unit: "bunches"
+  description: "How many bananas the moneys demand this week for protection services."
+profits:
+  type: "gauge"
+  is_monotonic: false
+  unit: "CAD"
+  description: "What's left after the monkeys are fed."
