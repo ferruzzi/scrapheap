@@ -1,0 +1,11 @@
+dagrun.dependency-check.<dag_id>
+dag.<dag_id>.<task_id>.duration
+dag_processing.last_duration.<dag_file>
+dagrun.duration.success.<dag_id>
+dagrun.duration.failed.<dag_id>
+dagrun.schedule_delay.<dag_id>
+scheduler.critical_section_duration
+scheduler.critical_section_query_duration
+scheduler.scheduler_loop_duration
+dagrun.<dag_id>.first_task_scheduling_delay
+collect_db_dags

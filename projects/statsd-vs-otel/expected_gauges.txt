@@ -1,0 +1,16 @@
+dagbag_size
+dag_processing.import_errors
+dag_processing.total_parse_time
+dag_processing.file_path_queue_size
+dag_processing.last_run.seconds_ago.<dag_file>
+dag_processing.file_path_queue_size
+scheduler.tasks.starving
+scheduler.tasks.executable
+executor.open_slots
+executor.queued_tasks
+executor.running_tasks
+pool.open_slots.<pool_name>
+pool.queued_slots.<pool_name>
+pool.running_slots.<pool_name>
+pool.starving_tasks.<pool_name>
+triggers.running
