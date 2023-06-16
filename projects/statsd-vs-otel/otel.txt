@@ -1,137 +1,156 @@
+# HELP airflow_dag_fail_s_l_a_sleep_30_queued_duration
+# TYPE airflow_dag_fail_s_l_a_sleep_30_queued_duration gauge
+airflow_dag_fail_s_l_a_sleep_30_queued_duration{job="Airflow"} 0.449124
 # HELP airflow_dag_processing_file_path_queue_size
 # TYPE airflow_dag_processing_file_path_queue_size gauge
 airflow_dag_processing_file_path_queue_size{job="Airflow"} 0
 # HELP airflow_dag_processing_file_path_queue_update_count
 # TYPE airflow_dag_processing_file_path_queue_update_count counter
-airflow_dag_processing_file_path_queue_update_count{job="Airflow"} 179
+airflow_dag_processing_file_path_queue_update_count{job="Airflow"} 1343
 # HELP airflow_dag_processing_import_errors
 # TYPE airflow_dag_processing_import_errors gauge
 airflow_dag_processing_import_errors{job="Airflow"} 0
 # HELP airflow_dag_processing_last_duration
 # TYPE airflow_dag_processing_last_duration gauge
-airflow_dag_processing_last_duration{file_name="failure",job="Airflow"} 0.121666
+airflow_dag_processing_last_duration{file_name="callback",job="Airflow"} 0.115683
 # HELP airflow_dag_processing_last_duration_blog_post_taskflow
 # TYPE airflow_dag_processing_last_duration_blog_post_taskflow gauge
-airflow_dag_processing_last_duration_blog_post_taskflow{job="Airflow"} 0.101769
+airflow_dag_processing_last_duration_blog_post_taskflow{job="Airflow"} 0.105954
+# HELP airflow_dag_processing_last_duration_callback
+# TYPE airflow_dag_processing_last_duration_callback gauge
+airflow_dag_processing_last_duration_callback{job="Airflow"} 0.115683
 # HELP airflow_dag_processing_last_duration_failure
 # TYPE airflow_dag_processing_last_duration_failure gauge
-airflow_dag_processing_last_duration_failure{job="Airflow"} 0.121666
+airflow_dag_processing_last_duration_failure{job="Airflow"} 0.127119
+# HELP airflow_dag_processing_last_duration_sla
+# TYPE airflow_dag_processing_last_duration_sla gauge
+airflow_dag_processing_last_duration_sla{job="Airflow"} 0.182218
 # HELP airflow_dag_processing_last_duration_sleep_10
 # TYPE airflow_dag_processing_last_duration_sleep_10 gauge
-airflow_dag_processing_last_duration_sleep_10{job="Airflow"} 0.107621
+airflow_dag_processing_last_duration_sleep_10{job="Airflow"} 0.133651
 # HELP airflow_dag_processing_last_duration_sleep_rand
 # TYPE airflow_dag_processing_last_duration_sleep_rand gauge
-airflow_dag_processing_last_duration_sleep_rand{job="Airflow"} 0.106728
+airflow_dag_processing_last_duration_sleep_rand{job="Airflow"} 0.110627
 # HELP airflow_dag_processing_last_duration_taskflow_demo
 # TYPE airflow_dag_processing_last_duration_taskflow_demo gauge
-airflow_dag_processing_last_duration_taskflow_demo{job="Airflow"} 0.120302
+airflow_dag_processing_last_duration_taskflow_demo{job="Airflow"} 0.121648
 # HELP airflow_dag_processing_last_duration_taskflow_demo2
 # TYPE airflow_dag_processing_last_duration_taskflow_demo2 gauge
-airflow_dag_processing_last_duration_taskflow_demo2{job="Airflow"} 0.108
+airflow_dag_processing_last_duration_taskflow_demo2{job="Airflow"} 0.139796
 # HELP airflow_dag_processing_last_run_seconds_ago_blog_post_taskflow
 # TYPE airflow_dag_processing_last_run_seconds_ago_blog_post_taskflow gauge
-airflow_dag_processing_last_run_seconds_ago_blog_post_taskflow{job="Airflow"} 30.136324
+airflow_dag_processing_last_run_seconds_ago_blog_post_taskflow{job="Airflow"} 27.304989
+# HELP airflow_dag_processing_last_run_seconds_ago_callback
+# TYPE airflow_dag_processing_last_run_seconds_ago_callback gauge
+airflow_dag_processing_last_run_seconds_ago_callback{job="Airflow"} 19.415285
 # HELP airflow_dag_processing_last_run_seconds_ago_failure
 # TYPE airflow_dag_processing_last_run_seconds_ago_failure gauge
-airflow_dag_processing_last_run_seconds_ago_failure{job="Airflow"} 30.44386
+airflow_dag_processing_last_run_seconds_ago_failure{job="Airflow"} 27.757819
+# HELP airflow_dag_processing_last_run_seconds_ago_sla
+# TYPE airflow_dag_processing_last_run_seconds_ago_sla gauge
+airflow_dag_processing_last_run_seconds_ago_sla{job="Airflow"} 27.699121
 # HELP airflow_dag_processing_last_run_seconds_ago_sleep_10
 # TYPE airflow_dag_processing_last_run_seconds_ago_sleep_10 gauge
-airflow_dag_processing_last_run_seconds_ago_sleep_10{job="Airflow"} 30.314827
+airflow_dag_processing_last_run_seconds_ago_sleep_10{job="Airflow"} 27.563774
 # HELP airflow_dag_processing_last_run_seconds_ago_sleep_rand
 # TYPE airflow_dag_processing_last_run_seconds_ago_sleep_rand gauge
-airflow_dag_processing_last_run_seconds_ago_sleep_rand{job="Airflow"} 30.430771
+airflow_dag_processing_last_run_seconds_ago_sleep_rand{job="Airflow"} 27.593935
 # HELP airflow_dag_processing_last_run_seconds_ago_taskflow_demo
 # TYPE airflow_dag_processing_last_run_seconds_ago_taskflow_demo gauge
-airflow_dag_processing_last_run_seconds_ago_taskflow_demo{job="Airflow"} 30.174029
+airflow_dag_processing_last_run_seconds_ago_taskflow_demo{job="Airflow"} 27.407672
 # HELP airflow_dag_processing_last_run_seconds_ago_taskflow_demo2
 # TYPE airflow_dag_processing_last_run_seconds_ago_taskflow_demo2 gauge
-airflow_dag_processing_last_run_seconds_ago_taskflow_demo2{job="Airflow"} 30.271775
+airflow_dag_processing_last_run_seconds_ago_taskflow_demo2{job="Airflow"} 27.447589
+# HELP airflow_dag_processing_other_callback_count
+# TYPE airflow_dag_processing_other_callback_count counter
+airflow_dag_processing_other_callback_count{job="Airflow"} 1
 # HELP airflow_dag_processing_processes
 # TYPE airflow_dag_processing_processes gauge
-airflow_dag_processing_processes{action="finish",file_path="/files/dags/blog_post_taskflow.py",job="Airflow"} -3
-airflow_dag_processing_processes{action="finish",file_path="/files/dags/failure.py",job="Airflow"} -3
-airflow_dag_processing_processes{action="finish",file_path="/files/dags/sleep_10.py",job="Airflow"} -3
-airflow_dag_processing_processes{action="finish",file_path="/files/dags/sleep_rand.py",job="Airflow"} -3
-airflow_dag_processing_processes{action="finish",file_path="/files/dags/taskflow_demo.py",job="Airflow"} -3
-airflow_dag_processing_processes{action="finish",file_path="/files/dags/taskflow_demo2.py",job="Airflow"} -3
-airflow_dag_processing_processes{action="start",file_path="/files/dags/blog_post_taskflow.py",job="Airflow"} 3
-airflow_dag_processing_processes{action="start",file_path="/files/dags/failure.py",job="Airflow"} 3
-airflow_dag_processing_processes{action="start",file_path="/files/dags/sleep_10.py",job="Airflow"} 3
-airflow_dag_processing_processes{action="start",file_path="/files/dags/sleep_rand.py",job="Airflow"} 3
-airflow_dag_processing_processes{action="start",file_path="/files/dags/taskflow_demo.py",job="Airflow"} 3
-airflow_dag_processing_processes{action="start",file_path="/files/dags/taskflow_demo2.py",job="Airflow"} 3
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/blog_post_taskflow.py",job="Airflow"} -18
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/callback.py",job="Airflow"} -19
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/failure.py",job="Airflow"} -18
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/sla.py",job="Airflow"} -18
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/sleep_10.py",job="Airflow"} -18
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/sleep_rand.py",job="Airflow"} -18
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/taskflow_demo.py",job="Airflow"} -18
+airflow_dag_processing_processes{action="finish",file_path="/files/dags/taskflow_demo2.py",job="Airflow"} -18
+airflow_dag_processing_processes{action="start",file_path="/files/dags/blog_post_taskflow.py",job="Airflow"} 18
+airflow_dag_processing_processes{action="start",file_path="/files/dags/callback.py",job="Airflow"} 19
+airflow_dag_processing_processes{action="start",file_path="/files/dags/failure.py",job="Airflow"} 18
+airflow_dag_processing_processes{action="start",file_path="/files/dags/sla.py",job="Airflow"} 18
+airflow_dag_processing_processes{action="start",file_path="/files/dags/sleep_10.py",job="Airflow"} 18
+airflow_dag_processing_processes{action="start",file_path="/files/dags/sleep_rand.py",job="Airflow"} 18
+airflow_dag_processing_processes{action="start",file_path="/files/dags/taskflow_demo.py",job="Airflow"} 18
+airflow_dag_processing_processes{action="start",file_path="/files/dags/taskflow_demo2.py",job="Airflow"} 18
+# HELP airflow_dag_processing_sla_callback_count
+# TYPE airflow_dag_processing_sla_callback_count counter
+airflow_dag_processing_sla_callback_count{job="Airflow"} 14
 # HELP airflow_dag_processing_total_parse_time
 # TYPE airflow_dag_processing_total_parse_time gauge
-airflow_dag_processing_total_parse_time{job="Airflow"} 0.002019156003370881
+airflow_dag_processing_total_parse_time{job="Airflow"} 0.08587077294941992
 # HELP airflow_dagbag_size
 # TYPE airflow_dagbag_size gauge
-airflow_dagbag_size{job="Airflow"} 6
-# HELP airflow_dagrun_dependency_check_city_pop_etl_taskflow
-# TYPE airflow_dagrun_dependency_check_city_pop_etl_taskflow gauge
-airflow_dagrun_dependency_check_city_pop_etl_taskflow{dag_id="city_pop_etl_taskflow",job="Airflow",run_type="manual"} 0.006454105954617262
+airflow_dagbag_size{job="Airflow"} 8
+# HELP airflow_dagrun_dependency_check_callbacks
+# TYPE airflow_dagrun_dependency_check_callbacks gauge
+airflow_dagrun_dependency_check_callbacks{dag_id="callbacks",job="Airflow",run_type="manual"} 0.0018720830557867885
+# HELP airflow_dagrun_dependency_check_fail_s_l_a
+# TYPE airflow_dagrun_dependency_check_fail_s_l_a gauge
+airflow_dagrun_dependency_check_fail_s_l_a{dag_id="fail_S_L_A",job="Airflow",run_type="scheduled"} 0.002468349994160235
 # HELP airflow_dagrun_dependency_check_failing_task
 # TYPE airflow_dagrun_dependency_check_failing_task gauge
-airflow_dagrun_dependency_check_failing_task{dag_id="failing_task",job="Airflow",run_type="manual"} 0.00404459098353982
+airflow_dagrun_dependency_check_failing_task{dag_id="failing_task",job="Airflow",run_type="manual"} 0.00198360497597605
 # HELP airflow_dagrun_dependency_check_sleep_10
 # TYPE airflow_dagrun_dependency_check_sleep_10 gauge
-airflow_dagrun_dependency_check_sleep_10{dag_id="sleep_10",job="Airflow",run_type="manual"} 0.00965355895459652
-# HELP airflow_dagrun_dependency_check_sleep_random
-# TYPE airflow_dagrun_dependency_check_sleep_random gauge
-airflow_dagrun_dependency_check_sleep_random{dag_id="sleep_random",job="Airflow",run_type="scheduled"} 0.01585899805650115
+airflow_dagrun_dependency_check_sleep_10{dag_id="sleep_10",job="Airflow",run_type="manual"} 0.0016306739998981357
 # HELP airflow_dagrun_dependency_check_taskflow_demo
 # TYPE airflow_dagrun_dependency_check_taskflow_demo gauge
-airflow_dagrun_dependency_check_taskflow_demo{dag_id="taskflow_demo",job="Airflow",run_type="manual"} 0.002659489051438868
-# HELP airflow_dagrun_dependency_check_taskflow_demo2
-# TYPE airflow_dagrun_dependency_check_taskflow_demo2 gauge
-airflow_dagrun_dependency_check_taskflow_demo2{dag_id="taskflow_demo2",job="Airflow",run_type="manual"} 0.009199949912726879
+airflow_dagrun_dependency_check_taskflow_demo{dag_id="taskflow_demo",job="Airflow",run_type="manual"} 0.002453893073834479
 # HELP airflow_dagrun_duration_failed
 # TYPE airflow_dagrun_duration_failed gauge
-airflow_dagrun_duration_failed{dag_id="failing_task",job="Airflow",run_type="manual"} 1.804449
+airflow_dagrun_duration_failed{dag_id="failing_task",job="Airflow",run_type="manual"} 1.238966
 # HELP airflow_dagrun_duration_failed_failing_task
 # TYPE airflow_dagrun_duration_failed_failing_task gauge
-airflow_dagrun_duration_failed_failing_task{dag_id="failing_task",job="Airflow",run_type="manual"} 1.804449
+airflow_dagrun_duration_failed_failing_task{dag_id="failing_task",job="Airflow",run_type="manual"} 1.238966
 # HELP airflow_dagrun_duration_success
 # TYPE airflow_dagrun_duration_success gauge
-airflow_dagrun_duration_success{dag_id="city_pop_etl_taskflow",job="Airflow",run_type="manual"} 6.483849
-# HELP airflow_dagrun_duration_success_city_pop_etl_taskflow
-# TYPE airflow_dagrun_duration_success_city_pop_etl_taskflow gauge
-airflow_dagrun_duration_success_city_pop_etl_taskflow{dag_id="city_pop_etl_taskflow",job="Airflow",run_type="manual"} 6.483849
+airflow_dagrun_duration_success{dag_id="callbacks",job="Airflow",run_type="manual"} 2.393508
+# HELP airflow_dagrun_duration_success_callbacks
+# TYPE airflow_dagrun_duration_success_callbacks gauge
+airflow_dagrun_duration_success_callbacks{dag_id="callbacks",job="Airflow",run_type="manual"} 2.393508
+# HELP airflow_dagrun_duration_success_fail_s_l_a
+# TYPE airflow_dagrun_duration_success_fail_s_l_a gauge
+airflow_dagrun_duration_success_fail_s_l_a{dag_id="fail_S_L_A",job="Airflow",run_type="scheduled"} 52.263134
 # HELP airflow_dagrun_duration_success_sleep_10
 # TYPE airflow_dagrun_duration_success_sleep_10 gauge
-airflow_dagrun_duration_success_sleep_10{dag_id="sleep_10",job="Airflow",run_type="manual"} 12.392645
-# HELP airflow_dagrun_duration_success_sleep_random
-# TYPE airflow_dagrun_duration_success_sleep_random gauge
-airflow_dagrun_duration_success_sleep_random{dag_id="sleep_random",job="Airflow",run_type="manual"} 5.096067
+airflow_dagrun_duration_success_sleep_10{dag_id="sleep_10",job="Airflow",run_type="manual"} 11.683413
 # HELP airflow_dagrun_duration_success_taskflow_demo
 # TYPE airflow_dagrun_duration_success_taskflow_demo gauge
-airflow_dagrun_duration_success_taskflow_demo{dag_id="taskflow_demo",job="Airflow",run_type="manual"} 3.830566
-# HELP airflow_dagrun_duration_success_taskflow_demo2
-# TYPE airflow_dagrun_duration_success_taskflow_demo2 gauge
-airflow_dagrun_duration_success_taskflow_demo2{dag_id="taskflow_demo2",job="Airflow",run_type="manual"} 2.507884
+airflow_dagrun_duration_success_taskflow_demo{dag_id="taskflow_demo",job="Airflow",run_type="manual"} 2.507348
+# HELP airflow_dagrun_fail_s_l_a_first_task_scheduling_delay
+# TYPE airflow_dagrun_fail_s_l_a_first_task_scheduling_delay gauge
+airflow_dagrun_fail_s_l_a_first_task_scheduling_delay{dag_id="fail_S_L_A",job="Airflow",run_type="scheduled"} 1.090881
 # HELP airflow_dagrun_first_task_scheduling_delay
 # TYPE airflow_dagrun_first_task_scheduling_delay gauge
-airflow_dagrun_first_task_scheduling_delay{dag_id="sleep_random",job="Airflow",run_type="scheduled"} 18.947075
+airflow_dagrun_first_task_scheduling_delay{dag_id="fail_S_L_A",job="Airflow",run_type="scheduled"} 1.090881
 # HELP airflow_dagrun_schedule_delay
 # TYPE airflow_dagrun_schedule_delay gauge
-airflow_dagrun_schedule_delay{dag_id="sleep_random",job="Airflow"} 0.565346
-# HELP airflow_dagrun_schedule_delay_sleep_random
-# TYPE airflow_dagrun_schedule_delay_sleep_random gauge
-airflow_dagrun_schedule_delay_sleep_random{job="Airflow"} 0.565346
-# HELP airflow_dagrun_sleep_random_first_task_scheduling_delay
-# TYPE airflow_dagrun_sleep_random_first_task_scheduling_delay gauge
-airflow_dagrun_sleep_random_first_task_scheduling_delay{dag_id="sleep_random",job="Airflow",run_type="scheduled"} 18.947075
+airflow_dagrun_schedule_delay{dag_id="fail_S_L_A",job="Airflow"} 0.73616
+# HELP airflow_dagrun_schedule_delay_fail_s_l_a
+# TYPE airflow_dagrun_schedule_delay_fail_s_l_a gauge
+airflow_dagrun_schedule_delay_fail_s_l_a{job="Airflow"} 0.73616
 # HELP airflow_dataset_orphaned
 # TYPE airflow_dataset_orphaned gauge
 airflow_dataset_orphaned{job="Airflow"} 0
 # HELP airflow_executor_open_slots
 # TYPE airflow_executor_open_slots gauge
-airflow_executor_open_slots{job="Airflow",name="LocalExecutor",status="open"} 32
+airflow_executor_open_slots{job="Airflow",name="CeleryExecutor",status="open"} 32
 # HELP airflow_executor_queued_tasks
 # TYPE airflow_executor_queued_tasks gauge
-airflow_executor_queued_tasks{job="Airflow",name="LocalExecutor",status="queued"} 0
+airflow_executor_queued_tasks{job="Airflow",name="CeleryExecutor",status="queued"} 0
 # HELP airflow_executor_running_tasks
 # TYPE airflow_executor_running_tasks gauge
-airflow_executor_running_tasks{job="Airflow",name="LocalExecutor",status="running"} 0
+airflow_executor_running_tasks{job="Airflow",name="CeleryExecutor",status="running"} 0
 # HELP airflow_job_start
 # TYPE airflow_job_start counter
 airflow_job_start{job="Airflow"} 1
@@ -161,13 +180,13 @@ airflow_pool_starving_tasks{job="Airflow",pool_name="default_pool"} 0
 airflow_pool_starving_tasks_default_pool{job="Airflow"} 0
 # HELP airflow_scheduler_critical_section_duration
 # TYPE airflow_scheduler_critical_section_duration gauge
-airflow_scheduler_critical_section_duration{job="Airflow"} 0.006481467979028821
+airflow_scheduler_critical_section_duration{job="Airflow"} 0.008679714985191822
 # HELP airflow_scheduler_critical_section_query_duration
 # TYPE airflow_scheduler_critical_section_query_duration gauge
-airflow_scheduler_critical_section_query_duration{job="Airflow"} 0.00279979407787323
+airflow_scheduler_critical_section_query_duration{job="Airflow"} 0.0033078709384426475
 # HELP airflow_scheduler_heartbeat
 # TYPE airflow_scheduler_heartbeat counter
-airflow_scheduler_heartbeat{job="Airflow"} 17
+airflow_scheduler_heartbeat{job="Airflow"} 106
 # HELP airflow_scheduler_orphaned_tasks_adopted
 # TYPE airflow_scheduler_orphaned_tasks_adopted counter
 airflow_scheduler_orphaned_tasks_adopted{job="Airflow"} 0
@@ -176,7 +195,7 @@ airflow_scheduler_orphaned_tasks_adopted{job="Airflow"} 0
 airflow_scheduler_orphaned_tasks_cleared{job="Airflow"} 0
 # HELP airflow_scheduler_scheduler_loop_duration
 # TYPE airflow_scheduler_scheduler_loop_duration gauge
-airflow_scheduler_scheduler_loop_duration{job="Airflow"} 0.036511561018414795
+airflow_scheduler_scheduler_loop_duration{job="Airflow"} 0.062010282068513334
 # HELP airflow_scheduler_tasks_executable
 # TYPE airflow_scheduler_tasks_executable gauge
 airflow_scheduler_tasks_executable{job="Airflow"} 0
@@ -185,25 +204,90 @@ airflow_scheduler_tasks_executable{job="Airflow"} 0
 airflow_scheduler_tasks_starving{job="Airflow"} 0
 # HELP airflow_serde_load_serializers
 # TYPE airflow_serde_load_serializers gauge
-airflow_serde_load_serializers{job="Airflow"} 0.007166200899519026
+airflow_serde_load_serializers{job="Airflow"} 0.007514690048992634
 # HELP airflow_task_instance_created
 # TYPE airflow_task_instance_created counter
-airflow_task_instance_created{dag_id="city_pop_etl_taskflow",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 3
+airflow_task_instance_created{dag_id="callbacks",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 2
+airflow_task_instance_created{dag_id="fail_S_L_A",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 2
+airflow_task_instance_created{dag_id="fail_S_L_A",job="Airflow",run_type="scheduled",task_type="_PythonDecoratedOperator"} 10
 airflow_task_instance_created{dag_id="failing_task",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 1
 airflow_task_instance_created{dag_id="sleep_10",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 1
-airflow_task_instance_created{dag_id="sleep_random",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 1
-airflow_task_instance_created{dag_id="sleep_random",job="Airflow",run_type="scheduled",task_type="_PythonDecoratedOperator"} 1
 airflow_task_instance_created{dag_id="taskflow_demo",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 3
-airflow_task_instance_created{dag_id="taskflow_demo2",job="Airflow",run_type="manual",task_type="_PythonDecoratedOperator"} 3
 # HELP airflow_task_instance_created__pythondecoratedoperator
 # TYPE airflow_task_instance_created__pythondecoratedoperator counter
-airflow_task_instance_created__pythondecoratedoperator{dag_id="city_pop_etl_taskflow",job="Airflow",run_type="manual"} 3
+airflow_task_instance_created__pythondecoratedoperator{dag_id="callbacks",job="Airflow",run_type="manual"} 2
+airflow_task_instance_created__pythondecoratedoperator{dag_id="fail_S_L_A",job="Airflow",run_type="manual"} 2
+airflow_task_instance_created__pythondecoratedoperator{dag_id="fail_S_L_A",job="Airflow",run_type="scheduled"} 10
 airflow_task_instance_created__pythondecoratedoperator{dag_id="failing_task",job="Airflow",run_type="manual"} 1
 airflow_task_instance_created__pythondecoratedoperator{dag_id="sleep_10",job="Airflow",run_type="manual"} 1
-airflow_task_instance_created__pythondecoratedoperator{dag_id="sleep_random",job="Airflow",run_type="manual"} 1
-airflow_task_instance_created__pythondecoratedoperator{dag_id="sleep_random",job="Airflow",run_type="scheduled"} 1
 airflow_task_instance_created__pythondecoratedoperator{dag_id="taskflow_demo",job="Airflow",run_type="manual"} 3
-airflow_task_instance_created__pythondecoratedoperator{dag_id="taskflow_demo2",job="Airflow",run_type="manual"} 3
+# HELP airflow_task_queued_duration
+# TYPE airflow_task_queued_duration gauge
+airflow_task_queued_duration{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0.449124
+# HELP airflow_ti_finish
+# TYPE airflow_ti_finish counter
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="None",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="deferred",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="failed",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="queued",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="removed",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="restarting",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="running",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="scheduled",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="shutdown",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="skipped",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="success",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="up_for_reschedule",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="up_for_retry",task_id="sleep_30"} 0
+airflow_ti_finish{dag_id="fail_S_L_A",job="Airflow",state="upstream_failed",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_deferred
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_deferred counter
+airflow_ti_finish_fail_s_l_a_sleep_30_deferred{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_failed
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_failed counter
+airflow_ti_finish_fail_s_l_a_sleep_30_failed{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_none
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_none counter
+airflow_ti_finish_fail_s_l_a_sleep_30_none{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_queued
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_queued counter
+airflow_ti_finish_fail_s_l_a_sleep_30_queued{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_removed
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_removed counter
+airflow_ti_finish_fail_s_l_a_sleep_30_removed{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_restarting
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_restarting counter
+airflow_ti_finish_fail_s_l_a_sleep_30_restarting{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_running
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_running counter
+airflow_ti_finish_fail_s_l_a_sleep_30_running{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_scheduled
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_scheduled counter
+airflow_ti_finish_fail_s_l_a_sleep_30_scheduled{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_shutdown
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_shutdown counter
+airflow_ti_finish_fail_s_l_a_sleep_30_shutdown{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_skipped
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_skipped counter
+airflow_ti_finish_fail_s_l_a_sleep_30_skipped{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_success
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_success counter
+airflow_ti_finish_fail_s_l_a_sleep_30_success{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_up_for_reschedule
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_up_for_reschedule counter
+airflow_ti_finish_fail_s_l_a_sleep_30_up_for_reschedule{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_up_for_retry
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_up_for_retry counter
+airflow_ti_finish_fail_s_l_a_sleep_30_up_for_retry{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_finish_fail_s_l_a_sleep_30_upstream_failed
+# TYPE airflow_ti_finish_fail_s_l_a_sleep_30_upstream_failed counter
+airflow_ti_finish_fail_s_l_a_sleep_30_upstream_failed{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 0
+# HELP airflow_ti_start
+# TYPE airflow_ti_start counter
+airflow_ti_start{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 1
+# HELP airflow_ti_start_fail_s_l_a_sleep_30
+# TYPE airflow_ti_start_fail_s_l_a_sleep_30 counter
+airflow_ti_start_fail_s_l_a_sleep_30{dag_id="fail_S_L_A",job="Airflow",task_id="sleep_30"} 1
 # HELP airflow_triggers_running
 # TYPE airflow_triggers_running gauge
 airflow_triggers_running{job="Airflow"} 0

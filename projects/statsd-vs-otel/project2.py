@@ -14,16 +14,22 @@ expected_by_name: Dict[str, Expected] = {}
 expected_by_pattern: Dict[str, Expected] = {}
 
 
-def ppprint(header, data, print_len=False, indent=False):
+def ppprint(header, data, print_len=False, indent=False, print_type=False):
     prefix = '\t'if indent else ''
     prefix += str(len(data))+' ' if print_len else ''
     print(f"{prefix}{header}")
     if isinstance(data, dict):
         for key in data.keys():
-            ppprint(key, data[key], True, True)
+            ppprint(key, data[key], True, True, print_type)
     else:
         prefix = '\t\t' if indent else '\t'
-        print(prefix + f"\n{prefix}".join(data) + "\n")
+        if print_type:
+            data = {f'{type_from_name(entry).ljust(10)} : {entry}' for entry in data}
+        print(prefix + f"\n{prefix}".join(sorted(data)) + "\n")
+
+
+def type_from_name(name):
+    return [i for i in expected_metrics if expected_by_name[name[8:]] in expected_metrics[i]][0]
 
 
 class Metric:
@@ -136,9 +142,33 @@ if __name__ == '__main__':
     otel_only = sorted({metric.name for metric in metrics_map.values() if metric.is_in_otel and not metric.is_in_statsd})
 
     only_missing_from_otel = sorted({missing for missing in otel_missing if missing not in statsd_missing})
-    metrics_with_no_match = sorted({metric.name for metric in metrics_map.values() if not metric.matches})
-    only_in_statsd_but_too_long = sorted({metric for metric in statsd_only if len(metric) > 63})
-    only_in_statsd_and_not_too_long = sorted({metric for metric in statsd_only if len(metric) <= 63})
+    metrics_not_matching_a_pattern = sorted({metric.name for metric in metrics_map.values() if not metric.matches})
 
-    ppprint('In StatsD but not in Otel:',  only_missing_from_otel, print_len=True)
-    import pdb ; pdb.set_trace()
+    not_in_either = set()
+    for instrument in expected_metrics.keys():
+        for target in expected_metrics[instrument]:
+            if not any({target.pattern in metrics_map[metric].matches for metric in metrics_map}):
+                not_in_either.add(f'airflow_{target.example}')
+    not_in_either = sorted(not_in_either)
+
+    if_cthulhu_wrote_not_in_either_when_he_was_grumpy = sorted([item for sublist in [[f'airflow_{target.example}' for target in expected_metrics[instrument] if not any({target.pattern in metrics_map[metric].matches for metric in metrics_map})] for instrument in expected_metrics.keys()] for item in sublist])
+    assert if_cthulhu_wrote_not_in_either_when_he_was_grumpy == not_in_either
+
+    only_in_statsd_but_too_long = sorted({metric for metric in statsd_only if len(metric) > 62})
+    only_in_statsd_and_not_too_long = sorted({metric for metric in statsd_only if len(metric) <= 62})
+
+    ppprint('Found in Otel', otel_includes, print_len=True)
+    ppprint('Found in StatsD', statsd_includes, print_len=True)
+
+    ppprint('Missing from OTel', otel_missing, print_len=True)
+    ppprint('Missing from StatsD', statsd_missing, print_len=True)
+
+    ppprint('Emitted but not matching a pattern', metrics_not_matching_a_pattern, print_len=True)
+    ppprint('Patterns Generated', sorted(expected_by_pattern.keys()), print_len=True)
+
+    ppprint('In StatsD but not in Otel',  only_missing_from_otel, print_type=True, print_len=True)
+    ppprint('Not found in either output', not_in_either, print_len=True, print_type=True)
+
+    ppprint('Only in StasD but too long', only_in_statsd_but_too_long, print_len=True)
+    ppprint('Expected', sorted(expected_by_name.keys()), print_len=True)
+    # import pdb ; pdb.set_trace()
