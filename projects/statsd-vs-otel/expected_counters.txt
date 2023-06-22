@@ -31,7 +31,7 @@ celery.task_timeout_error
 celery.execute_command.failure
 task_removed_from_dag.<dag_id>
 task_restored_to_dag.<dag_id>
-task_instance_created-<operator_name>
+task_instance_created<operator_name>
 triggers.blocked_main_thread
 triggers.failed
 triggers.succeeded
