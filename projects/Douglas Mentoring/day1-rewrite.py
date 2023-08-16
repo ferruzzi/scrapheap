@@ -9,13 +9,13 @@ from typing import Any, Dict, List, Tuple
 
 from netmiko import BaseConnection, ConnectHandler, ReadTimeout
 
-DEFAULT_DEVICE_TYPE:str = 'cisco_ios'
+DEFAULT_DEVICE_TYPE: str = 'cisco_ios'
 DEFAULT_WHID: str = "YEG1"
 IF_DETAIL_CMD: str = "sh idprom interface {iface} detail"
 HOSTS_FILE = "/home/segattod/segattod-workspace/src/Segattod-package/myproject/Light_level_checks/list.txt"
 MIN_LIGHT_LEVEL: float = -10
-MODEL_LINE_PREFIX = "Vendor Name"
-SPEED_LINE_PREFIX = "Administrative Speed"
+MODEL_LINE_PREFIX: str = "Vendor Name"
+SPEED_LINE_PREFIX: str = "Administrative Speed"
 
 SFP_SPEEDS: Dict[int, str] = {10000: "10G", 1000: "1G"}
 
