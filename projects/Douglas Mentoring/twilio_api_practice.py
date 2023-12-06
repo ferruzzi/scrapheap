@@ -1,6 +1,7 @@
 from twilio.rest import Client
-import requests, json,os
-from datetime import datetime,timedelta
+import requests, os
+from datetime import datetime, timedelta
+
 
 def get_stock_data():
     # Pull data from API
@@ -10,9 +11,9 @@ def get_stock_data():
     alphavantage_api_key = os.environ["stock_key"]
 
     parameters = {
-        "function":"TIME_SERIES_DAILY",
-        "symbol":STOCK,
-        "apikey":alphavantage_api_key
+        "function": "TIME_SERIES_DAILY",
+        "symbol": STOCK,
+        "apikey": alphavantage_api_key
     }
     response = requests.get("https://www.alphavantage.co/query", params=parameters)
     return response.json()
@@ -67,13 +68,13 @@ def get_news(date1, date2):
 
     news_api_key = os.environ["news_key"]
     parameters = {
-        "q":COMPANY_NAME,
-        "apiKey":news_api_key,
-        "language":"en",
-        "from":date1,
-        "to":date2,
-        "sort_by":"relevancy",
-        # "country":"us"
+        "q": COMPANY_NAME,
+        "apiKey": news_api_key,
+        "language": "en",
+        "from": date1,
+        "to": date2,
+        "sort_by": "relevancy",
+        # "country": "us"
 
     }
     try:
@@ -83,7 +84,7 @@ def get_news(date1, date2):
         selected_articles = []
         for article in headlines['articles'][:3]:
             selected_articles.append({
-                "title":article['title'],
+                "title": article['title'],
                 "description": article['description']
             })
         return selected_articles
@@ -99,21 +100,19 @@ def send_text(selected_articles):
     if selected_articles:
         for article in selected_articles:
             client = Client(account_sid, auth_token)
-            message = client.messages \
-                .create(
-                body= f"{STOCK}💲💲💲 5%\nTitle: " + article["title"] + "\nDescription: " + article["description"],
-                from_="+13436553073",
-                to="+18259771913"
+            message = client.messages.create(
+                body=f"{STOCK}💲💲💲 5%\nTitle: " + article["title"] + "\nDescription: " + article["description"],
+                from="+13436553073",
+                to="+18259771913",
             )
             print(message.sid)
             print(message.status)
     else:
         client = Client(account_sid, auth_token)
-        message = client.messages \
-            .create(
+        message = client.messages.create(
             body=f"{STOCK}💲💲💲 5%\nTitle: No recent new found",
-            from_="+13436553073",
-            to="+18259771913"
+            from="+13436553073",
+            to="+18259771913",
         )
         print(message.sid)
         print(message.status)
@@ -135,7 +134,7 @@ if date1 and date2:
     is_five_percent = get_stock_values(data, date1, date2)
     # Check if there is a variance
     if is_five_percent:
-        #Get news from API
+        # Get news from API
         selected_articles = get_news(date1, date2)
         # Send text by API
         send_text(selected_articles)
@@ -143,11 +142,9 @@ if date1 and date2:
 else:
     print("nothing to update")
 
+# Optional: Format the SMS message like this:
 
-
-#Optional: Format the SMS message like this:
-
-#Douglas here - I didn't work on this part as its optional but maybe later xD
+# Douglas here - I didn't work on this part as its optional but maybe later xD
 
 """
 TSLA: 🔺2%
@@ -158,4 +155,3 @@ or
 Headline: Were Hedge Funds Right About Piling Into Tesla Inc. (TSLA)?. 
 Brief: We at Insider Monkey have gone over 821 13F filings that hedge funds and prominent investors are required to file by the SEC The 13F filings show the funds' and investors' portfolio positions as of March 31st, near the height of the coronavirus market crash.
 """
-
