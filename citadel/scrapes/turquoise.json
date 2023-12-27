@@ -1,0 +1,106 @@
+{
+  "ruleLimit": 1,
+  "templateTypes": ["MainContent"],
+  "templateIds": [],
+  "contents": [{
+    "records": [{
+      "@class": "com.endeca.infront.cartridge.model.Record",
+      "detailsAction": {
+        "contentPath": "/detail",
+        "@class": "com.endeca.infront.cartridge.model.RecordAction",
+        "siteRootPath": "/pages",
+        "siteState": {
+          "validSite": true,
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.site.model.SiteState",
+          "siteDisplayName": "GamesWorkshop",
+          "matchedUrlPattern": null,
+          "siteDefinition": {
+            "@class": "com.endeca.infront.site.model.SiteDefinition",
+            "displayName": "GamesWorkshop",
+            "patterns": [],
+            "id": "/GWen",
+            "urlPattern": null,
+            "filterStateConfiguration": null
+          },
+          "siteId": "/GWen",
+          "properties": {}
+        },
+        "label": null,
+        "recordState": "?A=sku-99189960129..prod4190310.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+      },
+      "records": [{
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960129..prod4190310.en__WW__gw.WW__gw"
+        },
+        "records": null,
+        "numRecords": 0,
+        "attributes": {"record.id": ["sku-99189960129..prod4190310.en__WW__gw.WW__gw"]}
+      }],
+      "numRecords": 1,
+      "attributes": {
+        "analytics.impressionFieldObject": [{
+          "price": "7.80",
+          "name": "Contrast: Terradon Turquoise (18ml) (2019)",
+          "id": "99189960129",
+          "position": 1,
+          "category": "GW: New and Exclusive|GW: Painting and Modelling",
+          "list": "HorizontalRecordSpotlight"
+        }],
+        "product.title": ["Terradon Turquoise"],
+        "product.repositoryId": ["prod4190310"],
+        "sku.productType": ["singleProduct"],
+        "sku.repositoryId": ["99189960129"],
+        "product.displayName": ["Contrast: Terradon Turquoise (18ml) (2019)"],
+        "low.price": ["7.800000"],
+        "analytics.productFieldObject": [{
+          "quantity": 1,
+          "price": "7.80",
+          "name": "Contrast: Terradon Turquoise (18ml) (2019)",
+          "id": "99189960129",
+          "position": 1,
+          "category": "GW: New and Exclusive|GW: Painting and Modelling"
+        }],
+        "product.seoUrl": ["Terradon-Turquoise-2019"],
+        "product.imageName": ["99189960034_contrastTerradonTurquoise.svg"],
+        "record.id": ["sku-99189960129..prod4190310.en__WW__gw.WW__gw"]
+      }
+    }],
+    "@type": "HorizontalRecordSpotlight",
+    "endeca:auditInfo": {
+      "ecr:innerPath": null,
+      "ecr:resourcePath": "/content/Paint Detail/Record Spotlights/Record Spotlight - Colour - Turquoise"
+    },
+    "name": "Spotlight Records",
+    "title": "Featured Items"
+  }],
+  "@type": "PaintPageContentSlotMain",
+  "endeca:auditInfo": {
+    "ecr:innerPath": "mainContent[1]/mainContent[2]",
+    "ecr:resourcePath": "/content/Paint Detail/Pages/GW/Paint Detail - GW"
+  },
+  "name": "Paint Page Content Slot",
+  "contentPaths": ["/content/Paint Detail/Record Spotlights"]
+}
