@@ -1,0 +1,1553 @@
+{
+  "ruleLimit": 1,
+  "templateTypes": ["MainContent"],
+  "templateIds": [],
+  "contents": [{
+    "records": [
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960102..prod4190283.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960102..prod4190283.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960102..prod4190283.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Magos Purple (18ml) (2019)",
+            "id": "99189960102",
+            "position": 1,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Magos Purple"],
+          "product.repositoryId": ["prod4190283"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960102"],
+          "product.displayName": ["Contrast: Magos Purple (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Magos Purple (18ml) (2019)",
+            "id": "99189960102",
+            "position": 1,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Magos-Purple-2019"],
+          "product.imageName": ["99189960007_contrastMagosPurple.svg"],
+          "record.id": ["sku-99189960102..prod4190283.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960101..prod4190282.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960101..prod4190282.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960101..prod4190282.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Shyish Purple (18ml) (2019)",
+            "id": "99189960101",
+            "position": 2,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Shyish Purple"],
+          "product.repositoryId": ["prod4190282"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960101"],
+          "product.displayName": ["Contrast: Shyish Purple (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Shyish Purple (18ml) (2019)",
+            "id": "99189960101",
+            "position": 2,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Shyish-Purple-2019"],
+          "product.imageName": ["99189960006_contrastShyishPurple.svg"],
+          "record.id": ["sku-99189960101..prod4190282.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960053..prod4960278.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960053..prod4960278.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960053..prod4960278.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Leviathan Purple (18ML)",
+            "id": "99189960053",
+            "position": 3,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Leviathan Purple"],
+          "product.repositoryId": ["prod4960278"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960053"],
+          "product.displayName": ["Contrast: Leviathan Purple (18ML)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Leviathan Purple (18ML)",
+            "id": "99189960053",
+            "position": 3,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["contrast-leviathan-purple-18ml-2022"],
+          "product.imageName": ["99189960053_Contrast_Leviathan_Purple.svg"],
+          "record.id": ["sku-99189960053..prod4960278.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960054..prod4960279.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960054..prod4960279.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960054..prod4960279.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Luxion Purple (18ML)",
+            "id": "99189960054",
+            "position": 4,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Luxion Purple"],
+          "product.repositoryId": ["prod4960279"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960054"],
+          "product.displayName": ["Contrast: Luxion Purple (18ML)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Luxion Purple (18ML)",
+            "id": "99189960054",
+            "position": 4,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["contrast-luxion-purple-18ml-2022"],
+          "product.imageName": ["99189960054_Contrast_Luxion_Purple.svg"],
+          "record.id": ["sku-99189960054..prod4960279.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960055..prod4960280.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960055..prod4960280.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960055..prod4960280.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Sigvald Burgundy (18ML)",
+            "id": "99189960055",
+            "position": 5,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Sigvald Burgundy"],
+          "product.repositoryId": ["prod4960280"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960055"],
+          "product.displayName": ["Contrast: Sigvald Burgundy (18ML)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Sigvald Burgundy (18ML)",
+            "id": "99189960055",
+            "position": 5,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["contrast-sigvald-burgundy-18ml-2022"],
+          "product.imageName": ["99189960055_Contrast_Sigvald_Burgundy.svg"],
+          "record.id": ["sku-99189960055..prod4960280.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960056..prod4960281.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960056..prod4960281.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960056..prod4960281.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Dreadful Visage (18ML)",
+            "id": "99189960056",
+            "position": 6,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Dreadful Visage"],
+          "product.repositoryId": ["prod4960281"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960056"],
+          "product.displayName": ["Contrast: Dreadful Visage (18ML)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Dreadful Visage (18ML)",
+            "id": "99189960056",
+            "position": 6,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["contrast-dreadful-visage-18ml-2022"],
+          "product.imageName": ["99189960056_Contrast_Dreadful_Visage.svg"],
+          "record.id": ["sku-99189960056..prod4960281.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950213..prod4210275.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950213..prod4210275.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950213..prod4210275.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Daemonette Hide (2019)",
+            "id": "99189950213",
+            "position": 7,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Daemonette Hide"],
+          "product.repositoryId": ["prod4210275"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950213"],
+          "product.displayName": ["Base: Daemonette Hide (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Daemonette Hide (2019)",
+            "id": "99189950213",
+            "position": 7,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Daemonette-Hide-2019"],
+          "product.imageName": ["99189950006_baseDaemonetteHide.svg"],
+          "record.id": ["sku-99189950213..prod4210275.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950244..prod4190152.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950244..prod4190152.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950244..prod4190152.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Phoenician Purple (12ml) (2019)",
+            "id": "99189950244",
+            "position": 8,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Phoenician Purple"],
+          "product.repositoryId": ["prod4190152"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950244"],
+          "product.displayName": ["Base: Phoenician Purple (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Phoenician Purple (12ml) (2019)",
+            "id": "99189950244",
+            "position": 8,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Phoenician-Purple-2019"],
+          "product.imageName": ["99189950121_basePhoenicianPurple.svg"],
+          "record.id": ["sku-99189950244..prod4190152.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950212..prod4210288.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950212..prod4210288.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950212..prod4210288.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Naggaroth Night (2019)",
+            "id": "99189950212",
+            "position": 9,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Naggaroth Night"],
+          "product.repositoryId": ["prod4210288"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950212"],
+          "product.displayName": ["Base: Naggaroth Night (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Naggaroth Night (2019)",
+            "id": "99189950212",
+            "position": 9,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Naggaroth-Night-2019"],
+          "product.imageName": ["99189950005_baseNaggarothNight.svg"],
+          "record.id": ["sku-99189950212..prod4210288.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950255..prod4190162.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950255..prod4190162.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950255..prod4190162.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Barak-Nar Burgundy (12ml) (2019)",
+            "id": "99189950255",
+            "position": 10,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Barak-Nar Burgundy"],
+          "product.repositoryId": ["prod4190162"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950255"],
+          "product.displayName": ["Base: Barak-Nar Burgundy (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Barak-Nar Burgundy (12ml) (2019)",
+            "id": "99189950255",
+            "position": 10,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Barak-nar-Burgundy-2019"],
+          "product.imageName": ["99189950169_baseBarakNarBurgundy.svg"],
+          "record.id": ["sku-99189950255..prod4190162.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189953057..prod4960257.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189953057..prod4960257.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189953057..prod4960257.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Shade: Druchii Violet (18ML)",
+            "id": "99189953057",
+            "position": 11,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Druchii Violet"],
+          "product.repositoryId": ["prod4960257"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189953057"],
+          "product.displayName": ["Shade: Druchii Violet (18ML)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Shade: Druchii Violet (18ML)",
+            "id": "99189953057",
+            "position": 11,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["shade-druchii-violet-18ml-2022"],
+          "product.imageName": ["99189953019_shadeDruchiiViolet.svg"],
+          "record.id": ["sku-99189953057..prod4960257.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951285..prod4190172.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951285..prod4190172.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951285..prod4190172.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Dechala Lilac (12ml) (2019)",
+            "id": "99189951285",
+            "position": 12,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Dechala Lilac"],
+          "product.repositoryId": ["prod4190172"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951285"],
+          "product.displayName": ["Layer: Dechala Lilac (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Dechala Lilac (12ml) (2019)",
+            "id": "99189951285",
+            "position": 12,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Dechala-Lilac-2019"],
+          "product.imageName": ["99189951106_layerDechalaLilac.svg"],
+          "record.id": ["sku-99189951285..prod4190172.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951289..prod4190176.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951289..prod4190176.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951289..prod4190176.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Kakophoni Purple (12ml) (2019)",
+            "id": "99189951289",
+            "position": 13,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Kakophoni Purple"],
+          "product.repositoryId": ["prod4190176"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951289"],
+          "product.displayName": ["Layer: Kakophoni Purple (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Kakophoni Purple (12ml) (2019)",
+            "id": "99189951289",
+            "position": 13,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Kakophoni-Purple-2019"],
+          "product.imageName": ["99189951110_layerKakophoniPurple.svg"],
+          "record.id": ["sku-99189951289..prod4190176.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951215..prod4210331.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951215..prod4210331.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951215..prod4210331.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Genestealer Purple (2019)",
+            "id": "99189951215",
+            "position": 14,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Genestealer Purple"],
+          "product.repositoryId": ["prod4210331"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951215"],
+          "product.displayName": ["Layer: Genestealer Purple (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Genestealer Purple (2019)",
+            "id": "99189951215",
+            "position": 14,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Genestealer-Purple-2019"],
+          "product.imageName": ["99189951010_layerGenestealerPurple.svg"],
+          "record.id": ["sku-99189951215..prod4210331.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951214..prod4210379.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951214..prod4210379.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951214..prod4210379.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Xereus Purple (2019)",
+            "id": "99189951214",
+            "position": 15,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Xereus Purple"],
+          "product.repositoryId": ["prod4210379"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951214"],
+          "product.displayName": ["Layer: Xereus Purple (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Xereus Purple (2019)",
+            "id": "99189951214",
+            "position": 15,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Xereus-Purple-2019"],
+          "product.imageName": ["99189951009_layerXereusPurple.svg"],
+          "record.id": ["sku-99189951214..prod4210379.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189952038..prod4220134.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189952038..prod4220134.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189952038..prod4220134.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Dry: Lucius Lilac (2019)",
+            "id": "99189952038",
+            "position": 16,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Lucius Lilac"],
+          "product.repositoryId": ["prod4220134"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189952038"],
+          "product.displayName": ["Dry: Lucius Lilac (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Dry: Lucius Lilac (2019)",
+            "id": "99189952038",
+            "position": 16,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Dry-Lucius-Lilac-2019"],
+          "product.imageName": ["99189952003_dryLuciusLilac.svg"],
+          "record.id": ["sku-99189952038..prod4220134.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189958188..prod4190256.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189958188..prod4190256.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189958188..prod4190256.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Air: Phoenician Purple (24ml) (2019)",
+            "id": "99189958188",
+            "position": 17,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Phoenician Purple"],
+          "product.repositoryId": ["prod4190256"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189958188"],
+          "product.displayName": ["Air: Phoenician Purple (24ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Air: Phoenician Purple (24ml) (2019)",
+            "id": "99189958188",
+            "position": 17,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Air-Phoenician-Purple-2019"],
+          "product.imageName": ["99189958110_airPhoenicianPurple.svg"],
+          "record.id": ["sku-99189958188..prod4190256.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189958186..prod4190254.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189958186..prod4190254.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189958186..prod4190254.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Air: Eidolon Purple Clear (24ml) (2019)",
+            "id": "99189958186",
+            "position": 18,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Eidolon Purple Clear"],
+          "product.repositoryId": ["prod4190254"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189958186"],
+          "product.displayName": ["Air: Eidolon Purple Clear (24ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Air: Eidolon Purple Clear (24ml) (2019)",
+            "id": "99189958186",
+            "position": 18,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Air-Eidolon-Purple-Clear-2019"],
+          "product.imageName": ["99189958108_airEidolonPurpleClear.svg"],
+          "record.id": ["sku-99189958186..prod4190254.en__WW__gw.WW__gw"]
+        }
+      }
+    ],
+    "@type": "HorizontalRecordSpotlight",
+    "endeca:auditInfo": {
+      "ecr:innerPath": null,
+      "ecr:resourcePath": "/content/Paint Detail/Record Spotlights/Record Spotlight - Colour - Purple"
+    },
+    "name": "Spotlight Records",
+    "title": "Featured Items"
+  }],
+  "@type": "PaintPageContentSlotMain",
+  "endeca:auditInfo": {
+    "ecr:innerPath": "mainContent[1]/mainContent[2]",
+    "ecr:resourcePath": "/content/Paint Detail/Pages/GW/Paint Detail - GW"
+  },
+  "name": "Paint Page Content Slot",
+  "contentPaths": ["/content/Paint Detail/Record Spotlights"]
+}

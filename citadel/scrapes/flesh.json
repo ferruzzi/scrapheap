@@ -1,0 +1,1893 @@
+{
+  "ruleLimit": 1,
+  "templateTypes": ["MainContent"],
+  "templateIds": [],
+  "contents": [{
+    "records": [
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960118..prod4190299.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960118..prod4190299.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960118..prod4190299.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Guilliman Flesh (18ml) (2019)",
+            "id": "99189960118",
+            "position": 1,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Guilliman Flesh"],
+          "product.repositoryId": ["prod4190299"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960118"],
+          "product.displayName": ["Contrast: Guilliman Flesh (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Guilliman Flesh (18ml) (2019)",
+            "id": "99189960118",
+            "position": 1,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Guilliman-Flesh-2019"],
+          "product.imageName": ["99189960023_contrastGuillimanFlesh.svg"],
+          "record.id": ["sku-99189960118..prod4190299.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960117..prod4190298.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960117..prod4190298.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960117..prod4190298.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Fyreslayer Flesh (18ml) (2019)",
+            "id": "99189960117",
+            "position": 2,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Fyreslayer Flesh"],
+          "product.repositoryId": ["prod4190298"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960117"],
+          "product.displayName": ["Contrast: Fyreslayer Flesh (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Fyreslayer Flesh (18ml) (2019)",
+            "id": "99189960117",
+            "position": 2,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Fyreslayer-Flesh-2019"],
+          "product.imageName": ["99189960022_contrastFyreslayerFlesh.svg"],
+          "record.id": ["sku-99189960117..prod4190298.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960119..prod4190300.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960119..prod4190300.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960119..prod4190300.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Darkoath Flesh (18ml) (2019)",
+            "id": "99189960119",
+            "position": 3,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Darkoath Flesh"],
+          "product.repositoryId": ["prod4190300"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960119"],
+          "product.displayName": ["Contrast: Darkoath Flesh (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Darkoath Flesh (18ml) (2019)",
+            "id": "99189960119",
+            "position": 3,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Darkoath-Flesh-2019"],
+          "product.imageName": ["99189960024_contrastDarkoathFlesh.svg"],
+          "record.id": ["sku-99189960119..prod4190300.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960108..prod4190289.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960108..prod4190289.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960108..prod4190289.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Ork Flesh (18ml) (2019)",
+            "id": "99189960108",
+            "position": 4,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Ork Flesh"],
+          "product.repositoryId": ["prod4190289"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960108"],
+          "product.displayName": ["Contrast: Ork Flesh (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Ork Flesh (18ml) (2019)",
+            "id": "99189960108",
+            "position": 4,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Ork-Flesh-2019"],
+          "product.imageName": ["99189960013_contrastOrkFlesh.svg"],
+          "record.id": ["sku-99189960108..prod4190289.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960128..prod4190309.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960128..prod4190309.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960128..prod4190309.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Plaguebearer Flesh (18ml) (2019)",
+            "id": "99189960128",
+            "position": 5,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Plaguebearer Flesh"],
+          "product.repositoryId": ["prod4190309"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960128"],
+          "product.displayName": ["Contrast: Plaguebearer Flesh (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Plaguebearer Flesh (18ml) (2019)",
+            "id": "99189960128",
+            "position": 5,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Plaguebearer-Flesh-2019"],
+          "product.imageName": ["99189960033_contrastPlaguebearerFlesh.svg"],
+          "record.id": ["sku-99189960128..prod4190309.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950243..prod4210279.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950243..prod4210279.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950243..prod4210279.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Ionrach Skin (12ml) (2019)",
+            "id": "99189950243",
+            "position": 6,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Ionrach Skin"],
+          "product.repositoryId": ["prod4210279"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950243"],
+          "product.displayName": ["Base: Ionrach Skin (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Ionrach Skin (12ml) (2019)",
+            "id": "99189950243",
+            "position": 6,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Ionrach-Skin-2019"],
+          "product.imageName": ["99189950082_baseIonrachSkin.svg"],
+          "record.id": ["sku-99189950243..prod4210279.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950234..prod4210289.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950234..prod4210289.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950234..prod4210289.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Rakarth Flesh (2019)",
+            "id": "99189950234",
+            "position": 7,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Rakarth Flesh"],
+          "product.repositoryId": ["prod4210289"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950234"],
+          "product.displayName": ["Base: Rakarth Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Rakarth Flesh (2019)",
+            "id": "99189950234",
+            "position": 7,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Rakarth-Flesh-2019"],
+          "product.imageName": ["99189950027_baseRakarthFlesh.svg"],
+          "record.id": ["sku-99189950234..prod4210289.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950226..prod4210290.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950226..prod4210290.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950226..prod4210290.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Ratskin Flesh (2019)",
+            "id": "99189950226",
+            "position": 8,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Ratskin Flesh"],
+          "product.repositoryId": ["prod4210290"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950226"],
+          "product.displayName": ["Base: Ratskin Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Ratskin Flesh (2019)",
+            "id": "99189950226",
+            "position": 8,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Ratskin-Flesh-2019"],
+          "product.imageName": ["99189950019_baseRatskinFlesh.svg"],
+          "record.id": ["sku-99189950226..prod4210290.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950225..prod4210270.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950225..prod4210270.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950225..prod4210270.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Bugmans Glow (2019)",
+            "id": "99189950225",
+            "position": 9,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Bugman's Glow"],
+          "product.repositoryId": ["prod4210270"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950225"],
+          "product.displayName": ["Base: Bugmans Glow (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Bugmans Glow (2019)",
+            "id": "99189950225",
+            "position": 9,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Bugmans-Glow-2019"],
+          "product.imageName": ["99189950018_baseBugmansGlow.svg"],
+          "record.id": ["sku-99189950225..prod4210270.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950256..prod4190163.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950256..prod4190163.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950256..prod4190163.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Catachan Fleshtone (12ml) (2019)",
+            "id": "99189950256",
+            "position": 10,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Catachan Flesh"],
+          "product.repositoryId": ["prod4190163"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950256"],
+          "product.displayName": ["Base: Catachan Fleshtone (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Catachan Fleshtone (12ml) (2019)",
+            "id": "99189950256",
+            "position": 10,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Catachan-Fleshtone-2019"],
+          "product.imageName": ["99189950170_baseCatachanFleshtone.svg"],
+          "record.id": ["sku-99189950256..prod4190163.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-01010101005..prod4780177.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-01010101005..prod4780177.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-01010101005..prod4780177.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "210.00",
+            "name": "Black Templars Army Set MTO (FR)",
+            "id": "01010101005",
+            "position": 11,
+            "category": "GW: New and Exclusive|GW: Warhammer 40K",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Set d'Armée Black Templars - Sur Commande (Français)"],
+          "product.repositoryId": ["prod4780177"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["01010101005"],
+          "product.displayName": ["Black Templars Army Set MTO (FR)"],
+          "low.price": ["210.000000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "210.00",
+            "name": "Black Templars Army Set MTO (FR)",
+            "id": "01010101005",
+            "position": 11,
+            "category": "GW: New and Exclusive|GW: Warhammer 40K"
+          }],
+          "product.seoUrl": ["black-templars-army-set-2021-mto-fre"],
+          "product.imageName": ["01010101003_FreBlackTemplarsArmySetLead.jpg"],
+          "record.id": ["sku-01010101005..prod4780177.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951263..prod4210345.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951263..prod4210345.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951263..prod4210345.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Pallid Wych Flesh (2019)",
+            "id": "99189951263",
+            "position": 12,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Pallid Wych Flesh"],
+          "product.repositoryId": ["prod4210345"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951263"],
+          "product.displayName": ["Layer: Pallid Wych Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Pallid Wych Flesh (2019)",
+            "id": "99189951263",
+            "position": 12,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Pallid-Wych-Flesh-2019"],
+          "product.imageName": ["99189951058_layerPallidWychFlesh.svg"],
+          "record.id": ["sku-99189951263..prod4210345.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951280..prod4210319.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951280..prod4210319.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951280..prod4210319.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Deepkin Flesh (12ml) (2019)",
+            "id": "99189951280",
+            "position": 13,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Deepkin Flesh"],
+          "product.repositoryId": ["prod4210319"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951280"],
+          "product.displayName": ["Layer: Deepkin Flesh (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Deepkin Flesh (12ml) (2019)",
+            "id": "99189951280",
+            "position": 13,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Deepkin-Flesh-2019"],
+          "product.imageName": ["99189951101_layerDeepkinFlesh.svg"],
+          "record.id": ["sku-99189951280..prod4210319.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951275..prod4210303.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951275..prod4210303.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951275..prod4210303.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Flayed One Flesh (2019)",
+            "id": "99189951275",
+            "position": 14,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Flayed One Flesh"],
+          "product.repositoryId": ["prod4210303"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951275"],
+          "product.displayName": ["Layer: Flayed One Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Flayed One Flesh (2019)",
+            "id": "99189951275",
+            "position": 14,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Flayed-One-Flesh-2019"],
+          "product.imageName": ["99189951074_layerFlayedOneFlesh.svg"],
+          "record.id": ["sku-99189951275..prod4210303.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951244..prod4210371.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951244..prod4210371.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951244..prod4210371.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Ungor Flesh (2019)",
+            "id": "99189951244",
+            "position": 15,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Ungor Flesh"],
+          "product.repositoryId": ["prod4210371"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951244"],
+          "product.displayName": ["Layer: Ungor Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Ungor Flesh (2019)",
+            "id": "99189951244",
+            "position": 15,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Ungor-Flesh-2019"],
+          "product.imageName": ["99189951039_layerUngorFlesh.svg"],
+          "record.id": ["sku-99189951244..prod4210371.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951242..prod4210338.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951242..prod4210338.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951242..prod4210338.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Kislev Flesh (2019)",
+            "id": "99189951242",
+            "position": 16,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Kislev Flesh"],
+          "product.repositoryId": ["prod4210338"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951242"],
+          "product.displayName": ["Layer: Kislev Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Kislev Flesh (2019)",
+            "id": "99189951242",
+            "position": 16,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Kislev-Flesh-2019"],
+          "product.imageName": ["99189951037_layerKislevFlesh.svg"],
+          "record.id": ["sku-99189951242..prod4210338.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951243..prod4210312.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951243..prod4210312.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951243..prod4210312.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Bestigor Flesh (2019)",
+            "id": "99189951243",
+            "position": 17,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Bestigor Flesh"],
+          "product.repositoryId": ["prod4210312"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951243"],
+          "product.displayName": ["Layer: Bestigor Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Bestigor Flesh (2019)",
+            "id": "99189951243",
+            "position": 17,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Bestigor-Flesh-2019"],
+          "product.imageName": ["99189951038_layerBestigorFlesh.svg"],
+          "record.id": ["sku-99189951243..prod4210312.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951241..prod4210314.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951241..prod4210314.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951241..prod4210314.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Cadian Fleshtone (2019)",
+            "id": "99189951241",
+            "position": 18,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Cadian Fleshtone"],
+          "product.repositoryId": ["prod4210314"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951241"],
+          "product.displayName": ["Layer: Cadian Fleshtone (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Cadian Fleshtone (2019)",
+            "id": "99189951241",
+            "position": 18,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Layer-Cadian-Fleshtone-2019"],
+          "product.imageName": ["99189951036_layerCadianFleshtone.svg"],
+          "record.id": ["sku-99189951241..prod4210314.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951297..prod4190183.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951297..prod4190183.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951297..prod4190183.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Knight-Questor Flesh (12ml) (2019)",
+            "id": "99189951297",
+            "position": 19,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Knight-Questor Flesh"],
+          "product.repositoryId": ["prod4190183"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951297"],
+          "product.displayName": ["Layer: Knight-Questor Flesh (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Knight-Questor Flesh (12ml) (2019)",
+            "id": "99189951297",
+            "position": 19,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Knight-questor-Flesh-2019"],
+          "product.imageName": ["99189951195_layerKnightQuestorFlesh.svg"],
+          "record.id": ["sku-99189951297..prod4190183.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189951296..prod4190182.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189951296..prod4190182.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189951296..prod4190182.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Layer: Bloodreaver Flesh (12ml) (2019)",
+            "id": "99189951296",
+            "position": 20,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Bloodreaver Flesh"],
+          "product.repositoryId": ["prod4190182"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189951296"],
+          "product.displayName": ["Layer: Bloodreaver Flesh (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Layer: Bloodreaver Flesh (12ml) (2019)",
+            "id": "99189951296",
+            "position": 20,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Bloodreaver-Flesh-2019"],
+          "product.imageName": ["99189951194_layerBloodreaverFlesh.svg"],
+          "record.id": ["sku-99189951296..prod4190182.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189952044..prod4220125.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189952044..prod4220125.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189952044..prod4220125.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Dry: Eldar Flesh (2019)",
+            "id": "99189952044",
+            "position": 21,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Eldar Flesh"],
+          "product.repositoryId": ["prod4220125"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189952044"],
+          "product.displayName": ["Dry: Eldar Flesh (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Dry: Eldar Flesh (2019)",
+            "id": "99189952044",
+            "position": 21,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Dry-Eldar-Flesh-2019"],
+          "product.imageName": ["99189952009_dryEldarFlesh.svg"],
+          "record.id": ["sku-99189952044..prod4220125.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189958167..prod4190235.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189958167..prod4190235.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189958167..prod4190235.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Air: Kislev Flesh (24ml) (2019)",
+            "id": "99189958167",
+            "position": 22,
+            "category": "GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Kislev Flesh"],
+          "product.repositoryId": ["prod4190235"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189958167"],
+          "product.displayName": ["Air: Kislev Flesh (24ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Air: Kislev Flesh (24ml) (2019)",
+            "id": "99189958167",
+            "position": 22,
+            "category": "GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Air-Kislev-Flesh-2019"],
+          "product.imageName": ["99189958089_airKislevFlesh.svg"],
+          "record.id": ["sku-99189958167..prod4190235.en__WW__gw.WW__gw"]
+        }
+      }
+    ],
+    "@type": "HorizontalRecordSpotlight",
+    "endeca:auditInfo": {
+      "ecr:innerPath": null,
+      "ecr:resourcePath": "/content/Paint Detail/Record Spotlights/Record Spotlight - Colour - Flesh"
+    },
+    "name": "Spotlight Records",
+    "title": "Featured Items"
+  }],
+  "@type": "PaintPageContentSlotMain",
+  "endeca:auditInfo": {
+    "ecr:innerPath": "mainContent[1]/mainContent[2]",
+    "ecr:resourcePath": "/content/Paint Detail/Pages/GW/Paint Detail - GW"
+  },
+  "name": "Paint Page Content Slot",
+  "contentPaths": ["/content/Paint Detail/Record Spotlights"]
+}

@@ -1,0 +1,618 @@
+{
+  "ruleLimit": 1,
+  "templateTypes": ["MainContent"],
+  "templateIds": [],
+  "contents": [{
+    "records": [
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189960124..prod4190305.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189960124..prod4190305.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189960124..prod4190305.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Contrast: Black Templar (18ml) (2019)",
+            "id": "99189960124",
+            "position": 1,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Black Templar"],
+          "product.repositoryId": ["prod4190305"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189960124"],
+          "product.displayName": ["Contrast: Black Templar (18ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Contrast: Black Templar (18ml) (2019)",
+            "id": "99189960124",
+            "position": 1,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Black-Templar-2019"],
+          "product.imageName": ["99189960029_contrastBlackTemplar.svg"],
+          "record.id": ["sku-99189960124..prod4190305.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950249..prod4190157.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950249..prod4190157.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950249..prod4190157.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Corvus Black (12ml) (2019)",
+            "id": "99189950249",
+            "position": 2,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Corvus Black"],
+          "product.repositoryId": ["prod4190157"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950249"],
+          "product.displayName": ["Base: Corvus Black (12ml) (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Corvus Black (12ml) (2019)",
+            "id": "99189950249",
+            "position": 2,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Corvus-Black-2019"],
+          "product.imageName": ["99189950126_baseCorvusBlack.svg"],
+          "record.id": ["sku-99189950249..prod4190157.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189950232..prod4210268.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189950232..prod4210268.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189950232..prod4210268.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "4.55",
+            "name": "Base: Abaddon Black (2019)",
+            "id": "99189950232",
+            "position": 3,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Abaddon Black"],
+          "product.repositoryId": ["prod4210268"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189950232"],
+          "product.displayName": ["Base: Abaddon Black (2019)"],
+          "low.price": ["4.550000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "4.55",
+            "name": "Base: Abaddon Black (2019)",
+            "id": "99189950232",
+            "position": 3,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Base-Abaddon-Black-2019"],
+          "product.imageName": ["99189950025_baseAbaddonBlack.svg"],
+          "record.id": ["sku-99189950232..prod4210268.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189958194..prod4190262.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189958194..prod4190262.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189958194..prod4190262.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Air: Corvus Black (24ml) (2019)",
+            "id": "99189958194",
+            "position": 4,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Corvus Black"],
+          "product.repositoryId": ["prod4190262"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189958194"],
+          "product.displayName": ["Air: Corvus Black (24ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Air: Corvus Black (24ml) (2019)",
+            "id": "99189958194",
+            "position": 4,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Air-Corvus-Black-2019"],
+          "product.imageName": ["99189958116_airCorvusBlack.svg"],
+          "record.id": ["sku-99189958194..prod4190262.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189958145..prod4190213.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189958145..prod4190213.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189958145..prod4190213.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Air: Abaddon Black (24ml) (2019)",
+            "id": "99189958145",
+            "position": 5,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Abaddon Black"],
+          "product.repositoryId": ["prod4190213"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189958145"],
+          "product.displayName": ["Air: Abaddon Black (24ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Air: Abaddon Black (24ml) (2019)",
+            "id": "99189958145",
+            "position": 5,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Air-Abaddon-Black-2019"],
+          "product.imageName": ["99189958067_airAbaddonBlack.svg"],
+          "record.id": ["sku-99189958145..prod4190213.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99189956067..prod4190184.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99189956067..prod4190184.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99189956067..prod4190184.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "7.80",
+            "name": "Technical: Mordant Earth (24ml) (2019)",
+            "id": "99189956067",
+            "position": 6,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Mordant Earth"],
+          "product.repositoryId": ["prod4190184"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99189956067"],
+          "product.displayName": ["Technical: Mordant Earth (24ml) (2019)"],
+          "low.price": ["7.800000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "7.80",
+            "name": "Technical: Mordant Earth (24ml) (2019)",
+            "id": "99189956067",
+            "position": 6,
+            "category": "GW: New and Exclusive|GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Mordant-Earth-2019"],
+          "product.imageName": ["99189956037_technicalMordantEarth.svg"],
+          "record.id": ["sku-99189956067..prod4190184.en__WW__gw.WW__gw"]
+        }
+      },
+      {
+        "@class": "com.endeca.infront.cartridge.model.Record",
+        "detailsAction": {
+          "contentPath": "/detail",
+          "@class": "com.endeca.infront.cartridge.model.RecordAction",
+          "siteRootPath": "/pages",
+          "siteState": {
+            "validSite": true,
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.site.model.SiteState",
+            "siteDisplayName": "GamesWorkshop",
+            "matchedUrlPattern": null,
+            "siteDefinition": {
+              "@class": "com.endeca.infront.site.model.SiteDefinition",
+              "displayName": "GamesWorkshop",
+              "patterns": [],
+              "id": "/GWen",
+              "urlPattern": null,
+              "filterStateConfiguration": null
+            },
+            "siteId": "/GWen",
+            "properties": {}
+          },
+          "label": null,
+          "recordState": "?A=sku-99209999090..prod4540248.en__WW__gw.WW__gw&Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour"
+        },
+        "records": [{
+          "@class": "com.endeca.infront.cartridge.model.Record",
+          "detailsAction": {
+            "contentPath": "/detail",
+            "@class": "com.endeca.infront.cartridge.model.RecordAction",
+            "siteRootPath": "/pages",
+            "siteState": {
+              "validSite": true,
+              "contentPath": "/detail",
+              "@class": "com.endeca.infront.site.model.SiteState",
+              "siteDisplayName": "GamesWorkshop",
+              "matchedUrlPattern": null,
+              "siteDefinition": {
+                "@class": "com.endeca.infront.site.model.SiteDefinition",
+                "displayName": "GamesWorkshop",
+                "patterns": [],
+                "id": "/GWen",
+                "urlPattern": null,
+                "filterStateConfiguration": null
+              },
+              "siteId": "/GWen",
+              "properties": {}
+            },
+            "label": null,
+            "recordState": "?Ndi=3184893862&Ndn=GW_Painting_and_Modelling_Browse_Paint_by_Colour.dyn.dimensionPaintColour&R=sku-99209999090..prod4540248.en__WW__gw.WW__gw"
+          },
+          "records": null,
+          "numRecords": 0,
+          "attributes": {"record.id": ["sku-99209999090..prod4540248.en__WW__gw.WW__gw"]}
+        }],
+        "numRecords": 1,
+        "attributes": {
+          "analytics.impressionFieldObject": [{
+            "price": "19.00",
+            "name": "Spray: Chaos Black Spray UK/ROW (2020)",
+            "id": "99209999090",
+            "position": 7,
+            "category": "GW: Painting and Modelling",
+            "list": "HorizontalRecordSpotlight"
+          }],
+          "product.title": ["Chaos Black"],
+          "product.repositoryId": ["prod4540248"],
+          "sku.productType": ["singleProduct"],
+          "sku.repositoryId": ["99209999090"],
+          "product.displayName": ["Spray: Chaos Black Spray UK/ROW (2020)"],
+          "low.price": ["19.000000"],
+          "analytics.productFieldObject": [{
+            "quantity": 1,
+            "price": "19.00",
+            "name": "Spray: Chaos Black Spray UK/ROW (2020)",
+            "id": "99209999090",
+            "position": 7,
+            "category": "GW: Painting and Modelling"
+          }],
+          "product.seoUrl": ["Chaos-Black-Spray-UK-ROW-2020"],
+          "product.imageName": ["99209999042_sprayChaosBlack.svg"],
+          "record.id": ["sku-99209999090..prod4540248.en__WW__gw.WW__gw"]
+        }
+      }
+    ],
+    "@type": "HorizontalRecordSpotlight",
+    "endeca:auditInfo": {
+      "ecr:innerPath": null,
+      "ecr:resourcePath": "/content/Paint Detail/Record Spotlights/Record Spotlight - Colour - Black"
+    },
+    "name": "Spotlight Records",
+    "title": "Featured Items"
+  }],
+  "@type": "PaintPageContentSlotMain",
+  "endeca:auditInfo": {
+    "ecr:innerPath": "mainContent[1]/mainContent[2]",
+    "ecr:resourcePath": "/content/Paint Detail/Pages/GW/Paint Detail - GW"
+  },
+  "name": "Paint Page Content Slot",
+  "contentPaths": ["/content/Paint Detail/Record Spotlights"]
+}
